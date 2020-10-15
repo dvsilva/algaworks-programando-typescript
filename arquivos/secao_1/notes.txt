@@ -1,0 +1,19 @@
+typescript -> tipagem estática
+javascript -> tipagem dinamica
+
+typescript
+- linguagem de programação
+- criada pela microsoft
+- superset do javascript -> superconjunto do javascript + algumas coisas
+- free e opensource
+- onde usamos -> cliente e servidor
+- browsers não entendem typescript
+- arquivos typescript -> transpilação (compliação + transformação) -> javascript
+- especialidades -> tipagem estática e orientação a objetos
+- ES5 (ecmascript) -> ES6 -> typescript
+
+instalar typescript globalmente -> npm install -g typescript
+verificar instalação -> tsc -v
+
+transpilação -> tsc helloworld.ts
+executar -> node helloworld.js
